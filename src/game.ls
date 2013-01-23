@@ -26,7 +26,7 @@ class Game
 
 
   calculate: ->
-    @output = _(@output).map (value, index) ~>
+    @output = _ @output .map (value, index) ~>
       value = value - @input[index]
       if @success
         value += @input[index] * 1.1

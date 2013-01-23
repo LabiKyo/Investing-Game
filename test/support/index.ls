@@ -1,5 +1,4 @@
 require! {
-  _: \underscore
   \should
 }
 
