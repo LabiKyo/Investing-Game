@@ -8,8 +8,8 @@ If more than or equal to 90% people invested, every invester get 10% profit.
 Given a list of investing amount, calculate their money after each round of investing.
 
 ## Important
-Install LiveScript and mocha globally.
-`npm install -dg LiveScript mocha`
+Install LiveScript and mocha + should globally.
+`npm install -dg LiveScript mocha should`
 
 ## How to test
 `slake test`

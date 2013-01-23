@@ -10,6 +10,7 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "mocha"
+    "mocha",
+    "should"
   }
 }
